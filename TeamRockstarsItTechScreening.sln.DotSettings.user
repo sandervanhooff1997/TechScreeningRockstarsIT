@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4265ae8_002Dcc2c_002D4027_002D9324_002Dc10dd34870f6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LoggingBehaviour_WhenRequestIsMade_ShouldLogRequestInformation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::57A66845-9AFC-4822-A0DE-9FF40B8E7ADA::net5.0::Application.UnitTests.Common.Mappings.MappingProfileTests.Artist_WhenMapped_ShouldMapToArtistDto&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::57A66845-9AFC-4822-A0DE-9FF40B8E7ADA::net5.0::Application.UnitTests.Common.Mappings.MappingProfileTests.Song_WhenMapped_ShouldMapToSongDto&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
